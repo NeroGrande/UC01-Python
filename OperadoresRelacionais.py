@@ -1,5 +1,5 @@
-"LENDA VIVA GRANDE NERO"
-"-------------------------------"
+print      ("BEM VINDO LENDA VIVA")
+print ("-------------------------------")
 #MAIOR QUE:
 print(2>3)
 
